@@ -38,10 +38,10 @@ The Markdown Compiler plugin for Acode is designed to enhance the readability an
 
 Features 🔥
 ----------
-- a markdown previewer for `.md` files in editor
+- A markdown previewer for `.md` files in editor
 - Enhances markdown styling of plugin description 
 
-This plugin try to bring github markdown styling to Acode.
+This plugin tries to bring GitHub's Markdown styling to Acode.
 
 **Make sure to leave a 🌟 [here](https://github.com/bajrangCoder/MarkdownCompiler)**
 
@@ -50,9 +50,9 @@ This plugin try to bring github markdown styling to Acode.
 Usage 🛠️
 --------
 
-Nothing to do , just install it from Acode Plugins Store and it will do its job.
+Simply install **Markdown Compiler** from the Acode Plugins Store and you're good to go.
 
-**Note:** It will add a `image` icon before `play` icon on the editor header in markdown files, It will help you in previewing the markdown it better style.
+**Note:** It will add an `image` icon before `play` icon on the editor header in markdown files, It will help you in previewing the markdown it better style.
 
 --------------------
 
